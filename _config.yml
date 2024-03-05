@@ -22,18 +22,16 @@ title: Malaga-AI Community
 email: hello@malaga-ai.community
 description: >- # this means to ignore newlines until "baseurl:"
   Malaga-AI is a non-profit dedicated to sharing the power and promise of Artificial Intelligence (AI),
-  so that all people may benefit from this transformative technology. Through education, outreach,
-  and collaboration, we aim to demystify AI and ensure its ethical development for the good of society.
-  Join us on this journey to create an enlightened future empowered by the awesome potential of thinking machines.
+  so that all people may benefit from this transformative technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://malaga-ai.community" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AIMalaga
 github_username:  Malaga-AI
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
