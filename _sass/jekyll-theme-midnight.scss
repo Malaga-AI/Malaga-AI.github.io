@@ -1,5 +1,12 @@
 @import "typography";
 
+:root {
+    --primary: #18DAE3;
+    --background: #090E2A;
+}
+
+// Override theme's styles
+
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark.scss";
@@ -10,13 +17,11 @@ body {
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#f0e7d5;
   font-weight: normal;
-  background: #252525;
-  background-attachment: fixed !important;
-  background: linear-gradient(#2a2a29, #1c1c1c);
+  background: var(--background);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#e8e8e8;
+  color:var(--primary);
   margin:0 0 10px;
   font-family: "safiro-medium", 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
