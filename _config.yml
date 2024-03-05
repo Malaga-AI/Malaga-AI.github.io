@@ -21,7 +21,7 @@
 title: Malaga-AI Community
 email: hello@malaga-ai.community
 description: >- # this means to ignore newlines until "baseurl:"
-  Malaga-AI is a non-profit dedicated to sharing the power and promise of Artificial Intelligence (AI),
+  Malaga-AI is a community dedicated to sharing the power and promise of Artificial Intelligence (AI),
   so that all people may benefit from this transformative technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://malaga-ai.community" # the base hostname & protocol for your site, e.g. http://example.com
