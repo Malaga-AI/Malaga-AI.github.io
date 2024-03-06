@@ -197,10 +197,13 @@ dt {
 
         a {
           color: var(--background);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 60px;
           &:hover {
             color: var(--lighter_background);
           }
-
         }
 
         &.name {
@@ -210,7 +213,7 @@ dt {
 
         &.links {
           float: right;
-          margin-left: 6px;
+          margin-left: 12px;
         }
       }
     }
