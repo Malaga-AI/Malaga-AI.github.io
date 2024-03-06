@@ -1,5 +1,6 @@
 ---
 layout: default
+show_eventbrite: True
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

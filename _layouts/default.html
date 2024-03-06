@@ -45,6 +45,10 @@
                 <hr>
             </div>
 
+            {% if page.show_eventbrite %}
+            {% include eventbrite.html %}
+            {% endif %}
+
             {{ content }}
 
         </section>
