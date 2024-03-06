@@ -30,6 +30,7 @@ discord_url: "https://discord.gg/PbUpg2b6pW"
 linkedin_url: "https://www.linkedin.com/company/102084618/admin/feed/posts/"
 eventbrite_url: "https://malaga-ai.eventbrite.com"
 x_url: "https://twitter.com/AIMalaga"
+github_url: "https://github.com/Malaga-AI"
 
 # Build settings
 remote_theme: pages-themes/midnight@v0.2.0

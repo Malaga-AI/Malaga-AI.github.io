@@ -1,13 +1,11 @@
 ---
 layout: default
 show_eventbrite: True
+show_allies: True
 ---
 
 # Community projects
 
-Coming soon...
+We will be opening soon opportunities for community-led AI projects, with the aim to contribute to the open source ecosystem.
 
-# Allies
-
-Some communities we love and support, in no particular order.
-
+Stay tuned for updates.

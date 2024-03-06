@@ -78,6 +78,11 @@
             {{ content }}
 
             <BR><BR>
+            {% if page.show_allies %}
+            {% include allies.html %}
+            {% endif %}
+
+            <BR><BR>
             <div id="title">
                 <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{
                         site.github.owner_name }}</a></span>
