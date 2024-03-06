@@ -2,6 +2,7 @@
 layout: default
 show_eventbrite: True
 show_allies: True
+title: Home
 ---
 
 # Community projects
