@@ -3,7 +3,7 @@ layout: default
 show_eventbrite: True
 show_allies: True
 show_team: True
-title: Home
+title: "Malaga-AI Community"
 ---
 
 # Community projects
