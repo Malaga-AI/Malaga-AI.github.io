@@ -1,6 +1,6 @@
 ---
 layout: default
-show_eventbrite: True
+show_eventbrite: False
 show_allies: True
 show_team: True
 title: "Malaga-AI Community"
