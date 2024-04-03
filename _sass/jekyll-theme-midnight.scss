@@ -1,34 +1,35 @@
 @import "typography";
 
 :root {
-    --primary: #18DAE3;
-    --background: #090E2A;
-    --lighter_background: #2D46D2;
+  --primary: #18DAE3;
+  --background: #090E2A;
+  --lighter_background: #2D46D2;
 }
 
 .ally_items {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  margin: 10px
 }
 
 .team_items {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .wrapped {
-    text-align: center;
-    justify-content: center;
-    max-width:100px;
+  text-align: center;
+  justify-content: center;
+  max-width:100px;
 }
 
 .circle-mask {
-    width: 100px;
-    height: 100px;
-    overflow: hidden;
-    border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
 }
 
 // Override theme's styles
