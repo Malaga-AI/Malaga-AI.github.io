@@ -1,6 +1,6 @@
 ---
 layout: default
-#event_id: 859381692777
+event_id: 876709811647
 show_allies: True
 show_team: True
 title: "Malaga-AI Community"
