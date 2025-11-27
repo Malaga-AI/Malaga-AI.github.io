@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://malaga-ai.community" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Malaga-AI
-discord_url: "https://discord.gg/2tv7W2jxXF"
+discord_url: "https://discord.com/invite/2tv7W2jxXF"
 linkedin_url: "https://www.linkedin.com/company/102084618/admin/feed/posts/"
 eventbrite_url: "https://malaga-ai.eventbrite.com"
 x_url: "https://twitter.com/AIMalaga"

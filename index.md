@@ -8,5 +8,5 @@ title: "Malaga-AI Community"
 
 # Community projects
 
-Head over to our [Discord](https://discord.gg/2tv7W2jxXF) to find out about active projects, where you can get involved.
+Head over to our [Discord](https://discord.com/invite/2tv7W2jxXF) to find out about active projects, where you can get involved.
 
